@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  margin: 20px;
+}
+
+.router-link
+{
+  text-decoration: none;
+  color: inherit;
+
+}
+
+
+.router-link:hover {
+  text-decoration: none;
+  color: inherit;
+}
